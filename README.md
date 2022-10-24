@@ -2,7 +2,7 @@ PROYECTO PARA LA COMUNIDAD DE JAVA-OPEN SOURCE
 
 ****************************************************** BIENVENID@s **************************************************************************
 
-HOLA DESARROLLADORES JAVA, les doy la bienbenida al proyecto a realizar de sistema de atencion de citas, espero su colaboración y compromiso y las muchas ganas de aprender, se que no será facil al inicio pero llegar al final será una satisfaccion muy agradable.
+HOLA DESARROLLADORES JAVA, les doy la bienvenida al proyecto a realizar de sistema de atencion de citas, espero su colaboración y compromiso y las muchas ganas de aprender, se que no será facil al inicio pero llegar al final será una satisfaccion muy agradable.
 
 Siempre estaremos en concacto para poder suplir las dudas e inconvenientes que se presenten; Además, su apoyo será muy valorado por muy poco que sea, sin mas que decir empezemos.
 
