@@ -93,7 +93,7 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 2.-
 
-3.-
+3.- Jorge Tejada Paredes
 
 4.-
 
