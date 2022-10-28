@@ -89,9 +89,11 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 **************************************************** PARTICIPANTES DEL PROYECTO *************************************************
 
-1.- Rodrigo Espinoza Meneses
 
-2.-
+
+1.-Fransi Sotz
+
+2.-Rodrigo Espinoza Meneses
 
 3.-
 
