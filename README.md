@@ -89,7 +89,7 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 **************************************************** PARTICIPANTES DEL PROYECTO *************************************************
 
-1.-Fransi Sotz
+1.-Fransi Leonel Sotz
 
 2.-
 
