@@ -102,3 +102,11 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 5.-
 
 6.-
+
+7.-
+
+8.-
+
+9.-
+
+10.-Julio Cesar De Lara Fraogoso
