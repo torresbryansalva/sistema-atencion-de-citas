@@ -1,4 +1,4 @@
-PROYECTO PARA LA COMUNIDAD DE JAVA-OPEN SOURCE
+﻿PROYECTO PARA LA COMUNIDAD DE JAVA-OPEN SOURCE
 
 ****************************************************** BIENVENID@s **************************************************************************
 
@@ -103,7 +103,7 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 6.-
 
-7.-
+7.- Katlerine Torres
 
 8.-
 
