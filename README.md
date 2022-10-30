@@ -95,7 +95,7 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 2.-Rodrigo Espinoza Meneses
 
-3.-
+3.- Jorge Tejada Paredes
 
 4.-
 
