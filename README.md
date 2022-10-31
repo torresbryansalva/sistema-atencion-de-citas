@@ -1,4 +1,4 @@
-PROYECTO PARA LA COMUNIDAD DE JAVA-OPEN SOURCE
+﻿PROYECTO PARA LA COMUNIDAD DE JAVA-OPEN SOURCE
 
 ****************************************************** BIENVENID@s **************************************************************************
 
@@ -89,14 +89,25 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 **************************************************** PARTICIPANTES DEL PROYECTO *************************************************
 
-1.-
 
-2.-
 
-3.-
+1.-Fransi Sotz
+
+2.-Rodrigo Espinoza Meneses
+
+3.- Jorge Tejada Paredes
 
 4.-
 
 5.-
 
-6.-Jorge Flores Gutierrez
+6.- Jorge Flores Gutierrez
+
+7.- Katlerine Torres
+
+8.-
+
+9.-
+
+10.-Julio Cesar De Lara Fraogoso
+
