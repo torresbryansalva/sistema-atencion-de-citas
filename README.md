@@ -91,7 +91,7 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 
 
-1.-Fransi Sotz
+1.-Fransi L. Sotz
 
 2.-Rodrigo Espinoza Meneses
 
