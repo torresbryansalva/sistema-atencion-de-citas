@@ -91,17 +91,17 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 
 
 
-1.-Fransi Sotz
+1.-Fransi L. Sotz
 
 2.-Rodrigo Espinoza Meneses
 
-3.-
+3.- Jorge Tejada Paredes
 
 4.-
 
 5.-
 
-6.-
+6.- Jorge Flores Gutierrez
 
 7.- Katlerine Torres
 
@@ -110,3 +110,4 @@ LISTO!!!! YA PODEMOS TRABAJAR JUNTOS
 9.-
 
 10.-Julio Cesar De Lara Fraogoso
+
